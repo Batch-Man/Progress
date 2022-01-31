@@ -17,7 +17,6 @@ Where:
 - `BarLength`	: 	The Total Length of the Progress-bar on the CMD Screen
 - `CurrentValue`	: 	Current Progress Step, out of the total Steps
 - `MaxValue`	: 	Max number of Steps needed to get to the Task Completion
-- 
 
 Example: 
 `Call progress 75 45 68`
