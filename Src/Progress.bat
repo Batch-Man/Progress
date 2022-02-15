@@ -79,26 +79,26 @@ Goto :EOF
 
 :Help
 Echo.
-Echo. This function will Show a CLI progress bar on the cmd Screen!
-echo. It will help in making your programs more user Friendly.
-Echo. The Progressbar will auto disappear on 100% Filling/Max value reach.
+Echo. This function will show a CLI progress bar on the CMD screen!
+echo. It will help make your programs more user friendly.
+Echo. The progress bar will auto disappear on 100% filling/max value reach.
 Echo. CREDITS: progress %_ver% by Kvc
 echo.
-echo. Syntax: Call progress [BarLength] [CurrentValue] [MaxValue]
+echo. Syntax: call progress [BarLength] [CurrentValue] [MaxValue]
 echo. Syntax: call progress [help , /? , -h , -help]
 echo. Syntax: call progress ver
 echo.
 echo. Where:-
 echo.
-echo. ver		: Displays version of program
+echo. ver		: Displays version of the program
 echo. help		: Displays help for the program
-echo. [BarLength]	: The Total Length of the Progress-bar on the CMD Screen
-Echo. [CurrentValue]	: Current Progress Step, out of the total Steps
-echo. [MaxValue]	: Max number of Steps needed to get to the Task Completion
+echo. [BarLength]	: The total length of the progress-bar on the CMD screen
+Echo. [CurrentValue]	: Current progress step, out of the total steps
+echo. [MaxValue]	: Maximum number of steps needed to get to the Task Completion stage.
 Echo.
-Echo. Example: Call progress 75 45 68
-Echo. Example: Call progress ver
-Echo. Example: Call progress [/? , -h , -help , help]
+Echo. Example: call progress 75 45 68
+Echo. Example: call progress ver
+Echo. Example: call progress [/? , -h , -help , help]
 Echo.
 Echo. www.batch-man.com
 Echo. #batch-man
