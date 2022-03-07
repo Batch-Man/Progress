@@ -21,4 +21,4 @@ Where:
 Example: 
 `Call progress 75 45 68`
 
-www.batch-man.com
+Article- https://batch-man.com/create-responsive-progress-bar-batch/
